@@ -1,0 +1,5 @@
+Srinivas,120
+john,100
+raju,230
+rohan,500
+Anjali, 100
